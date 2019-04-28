@@ -1,6 +1,7 @@
 theme: jekyll-theme-dinky
 title: Pokemon TGC Errors
-description: Guide to rare misprint, error, and mistakes in the Pokemon TGC.
+description: Guide to rare misprint, error, and mistake cards in the Pokemon TGC.
+repository: pokemontgcerrors/pokemontgcerrors.github.io
 google_analytics:
 show_downloads: false
 github:
