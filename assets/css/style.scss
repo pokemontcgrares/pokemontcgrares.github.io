@@ -3,3 +3,30 @@
 
 @import "{{ site.theme }}";
 
+.card .rare {
+  float: left;
+  width: 50%;
+}
+
+.card .normal {
+  float: right;
+  width: 50%;
+}
+
+.card img {
+  width: 95%;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.card::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.card .text {
+  text-align: center;
+  width: 100%;
+}
