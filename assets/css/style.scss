@@ -3,12 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.card .rare {
+.card .rare-image {
   float: left;
   width: 50%;
 }
 
-.card .normal {
+.card .normal-image {
   float: right;
   width: 50%;
 }
@@ -29,4 +29,47 @@
 .card .text {
   text-align: center;
   width: 100%;
+}
+
+.card .rarity {
+  float: left;
+  font-weight: bold;
+}
+
+.card .status {
+  float: right;
+}
+
+.card .details::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.card hr {
+  margin: 0px 5px 5px;
+}
+
+.card .legendary {
+  color: #ff8000;
+}
+
+.card .artifact {
+  color: #e6cc80;
+}
+
+.card .epic {
+  color: #a335ee
+}
+
+.card .rare {
+  color: #0070dd
+}
+
+.card .uncommon {
+  color: #1eff00
+}
+
+.card .common {
+  color: #9d9d9d
 }

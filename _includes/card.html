@@ -1,5 +1,10 @@
 <div class="card">
-  <div class="rare">
+  <div class="details">
+    <div class="rarity {{ include.rarity }}">Rarity: {{ include.rarity }}</div>
+    <div class="status">Status: {{ include.status }}</div>
+  </div>
+  <hr />
+  <div class="rare-image">
     <figure>
       <a href="cards/{{ include.rare }}.png">
         <img src="cards/{{ include.rare }}.png" />
@@ -7,7 +12,7 @@
       <figcaption class="text">More difficult to find.</figcaption>
     </figure>
   </div>
-  <div class="normal">
+  <div class="normal-image">
     <figure>
       <a href="cards/{{ include.normal }}.png">
         <img src="cards/{{ include.normal }}.png" />
