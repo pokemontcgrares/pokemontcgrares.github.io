@@ -69,6 +69,24 @@ The stamp will also include gold print.
 - [eBay: Pokemon Card Kids WB Movie Promo Error/Misprint inverted stamp Dragonite, PSA 8 (completed)](https://www.ebay.com/itm/Pokemon-Card-Kids-WB-Movie-Promo-Error-Misprint-inverted-stamp-Dragonite-PSA-8-/151763024172?nordt=true&rt=nc&orig_cvip=true). A completed sale of a Dragonite for 1,000USD.
 - [eBay: Dragonite Inverted Stamp Error Black Star Promo Pokemon Card #5](https://www.ebay.ca/itm/Dragonite-Inverted-Stamp-Error-Black-Star-Promo-Pokemon-Card-5-/183470036570). Ongoing (??) sale with a BIN of 4,000USD.
 
+## Base Ninetales Missing Damage Error
+
+This error comes from the Shadowless Base Set.  This error did not exist in the Unlimited Base Set.  During production, the Ninetales card was printed without the damage for the second attack.  The damage is supposed to read “80” for the “Fire Blast” attack and instead the 80 is blank. It is unclear if 1st edition Ninetales may also include this error.
+
+The mythos of the misprint includes:
+
+> These error cards may have come from Brushfire decks.
+
+#### Card details
+
+{% include card.html rarity="legendary" status="Most likely exists" rare="base_ninetales_damage/base_ninetales_damage_error" normal="base_ninetales_damage/base_ninetales_damage" %}
+
+#### References
+
+- [Reddit: No Damage Error Ninetales returned from PSA](https://www.reddit.com/r/pkmntcgcollections/comments/63x0kl/no_damage_error_ninetales_returned_from/)
+- [Worthpoint: Ninetales No Damage Error Misprint Card](https://www.worthpoint.com/worthopedia/ninetales-damage-error-misprint-card-1930368258)
+- [eBay: Shadowless Ninetales - PSA 4 VG-EX No Damage Error](https://www.ebay.com/itm/1999-Pokemon-1st-Edition-Base-Shadowless-Ninetales-PSA-4-VG-EX-No-Damage-Error/254156238671)
+
 ## Rocket Dark Dragonite 1st Edition non-holo 5/82
 
 This non-holo card list an incorrect set number 5/82. This is the card number for the holographic version, the non-holo should be 22/82. These cards should have been printed as holographic and the error was corrected in later runs.
@@ -92,7 +110,5 @@ This non-holo card list an incorrect set number 5/82. This is the card number fo
 #### References
 
 - [eFour: Story Behind Dark Dragonite Non-Holo Error](http://efour.proboards.com/thread/11034/story-dark-dragonite-holo-error)
-
-
 
 
