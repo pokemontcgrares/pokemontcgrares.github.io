@@ -69,5 +69,30 @@ The stamp will also include gold print.
 - [eBay: Pokemon Card Kids WB Movie Promo Error/Misprint inverted stamp Dragonite, PSA 8 (completed)](https://www.ebay.com/itm/Pokemon-Card-Kids-WB-Movie-Promo-Error-Misprint-inverted-stamp-Dragonite-PSA-8-/151763024172?nordt=true&rt=nc&orig_cvip=true). A completed sale of a Dragonite for 1,000USD.
 - [eBay: Dragonite Inverted Stamp Error Black Star Promo Pokemon Card #5](https://www.ebay.ca/itm/Dragonite-Inverted-Stamp-Error-Black-Star-Promo-Pokemon-Card-5-/183470036570). Ongoing (??) sale with a BIN of 4,000USD.
 
+## Rocket Dark Dragonite 1st Edition non-holo 5/82
+
+This non-holo card list an incorrect set number 5/82. This is the card number for the holographic version, the non-holo should be 22/82. These cards should have been printed as holographic and the error was corrected in later runs.
+
+#### Card details
+
+{% include card.html rarity="epic" status="Confirmed" rare="rocket_dark_dragonite_error/rocket_dark_dragonite_error_1st" normal="rocket_dark_dragonite_error/rocket_dark_dragonite_1st" %}
+
+#### References
+
+- [eFour: Story Behind Dark Dragonite Non-Holo Error](http://efour.proboards.com/thread/11034/story-dark-dragonite-holo-error)
+
+## Rocket Dark Dragonite Unlimited Edition non-holo 5/82
+
+This non-holo card list an incorrect set number 5/82. This is the card number for the holographic version, the non-holo should be 22/82. The Unlimited edition error is still very rare but less so compared to the 1st edition. Mythos estimates say about 5000 of these cards exist.
+
+#### Card details
+
+{% include card.html rarity="rare" status="Confirmed" rare="rocket_dark_dragonite_error/rocket_dark_dragonite_error_unlimited" normal="rocket_dark_dragonite_error/rocket_dark_dragonite_unlimited" %}
+
+#### References
+
+- [eFour: Story Behind Dark Dragonite Non-Holo Error](http://efour.proboards.com/thread/11034/story-dark-dragonite-holo-error)
+
+
 
 
